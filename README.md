@@ -1,5 +1,7 @@
 # Annotation of targets using parsing trees
-This repository is for our data augmentation technique using psrsing trees for compositional generalization of stanadarad seq2seq models like Transformers or RNN seq2seq models.
+Official implementation of "[Compositional Generalization via Parsing Tree Annotation]()" (IEEE ACCESS 2021) by Segwang Kim, Joonyoung Kim, and Kyomin Jung.
+
+To make stanadard seq2seq models, such as Transformers or RNN seq2seq models, achieve compositional generalization on the SCAN length and MCD splits, we invent data augmentation technique using psrsing trees.
 
 Example: Run scan.sh
 
