@@ -5,7 +5,7 @@ To make stanadard seq2seq models, such as Transformers or RNN seq2seq models, ac
 
 Example: Run scan.sh
 
-Our implementation is based on tensor2tensor library (https://github.com/tensorflow/tensor2tensor).
+Our implementation is based on [tensor2tensor](https://github.com/tensorflow/tensor2tensor) library.
 
 
 ## Requirements
