@@ -1,5 +1,5 @@
 # Annotation of targets using parsing trees
-Official implementation of "[Compositional Generalization via Parsing Tree Annotation]()" (IEEE ACCESS 2021) by Segwang Kim, Joonyoung Kim, and Kyomin Jung.
+Official implementation of "[Compositional Generalization via Parsing Tree Annotation](https://ieeexplore.ieee.org/document/9340248)" (IEEE ACCESS 2021) by Segwang Kim, Joonyoung Kim, and Kyomin Jung.
 
 To make stanadard seq2seq models, such as Transformers or RNN seq2seq models, achieve compositional generalization on the SCAN length and MCD splits, we invent data augmentation technique using psrsing trees.
 
